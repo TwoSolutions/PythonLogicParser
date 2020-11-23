@@ -13,6 +13,6 @@ This tree has a standard node implementation with Node.node is "or" , "and", "no
 For testing you could use 
 
 ```python
-from Util import printLevelOrder
+from Util import print_level_order
 printLevelOrder(tree)
 ```
